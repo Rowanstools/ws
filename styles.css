@@ -56,13 +56,8 @@ button {
 }
 
 /* Button Colors */
-#lookupButton {
+#lookupButton, #clearButton, #copyButton {
     background-color: #6c7e62;
-    color: white;
-}
-
-#clearButton {
-    background-color: #7a8e73;
     color: white;
 }
 
